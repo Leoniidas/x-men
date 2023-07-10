@@ -1,0 +1,10 @@
+/*Fazer todas as tag seguirem uma mesma regra, independente da herança*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
